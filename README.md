@@ -33,8 +33,6 @@
       <img src="https://skillicons.dev/icons?i=vscodium" height="40" alt="vscodium logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lazarus/default.svg" height="40" alt="lazarus logo" style="vertical-align: middle;" />
     </td>
   </tr>
   
